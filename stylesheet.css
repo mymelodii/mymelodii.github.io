@@ -1,0 +1,61 @@
+
+img{
+	position: center;
+}
+h1{
+	font-family: Kavoon, cursive;
+	color: rgba(255,255,255,.5);
+	text-align: center;
+	background-color: rgba(0, 0, 0, .5);
+	
+	margin:0 auto;
+}
+h2{
+	font-family: Kavoon, thin;
+	color: rgba(255,255,255,.5);
+	background-color: rgba(0, 0, 0, .5);
+
+	text-align: center;
+	margin:0 auto;
+}
+h3{
+	font-family: 'Simonetta';
+}
+.header{
+	background-color: rgba(0,0,0,1);
+	background-image: url("mewithtiger.jpg");
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-blend-mode: 
+	margin: 0 240 0 240;
+	padding: 200px 0 200px 0;
+	border:4px double black;
+
+}
+.navigation{
+	height:30px;
+	width: 220px;
+	background-color: #ff4d4d;
+	color:white;
+	margin: 50px 20px 0 20px;
+	text-align: center;
+}
+body{
+	background-color: white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.content{
+	margin:-300px 30px 20px 300px;
+	padding:10px 50px 10px 50px;
+	text-align: justify;
+	line-height: 200%;
+	color: rgba(0,0,0,.6);
+}
+p{
+	text-indent:50px;
+}
